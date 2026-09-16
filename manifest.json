@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Majmu AlAwrad AlKabir",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "AlAwrad",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "​app.github.io.majmu.awrad",
+  "description": "Majmu AlAwrad AlKabir application"
+}
